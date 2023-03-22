@@ -58,3 +58,9 @@ Under signing, select Development team and press Delete. Xcode will read from th
 
 ## Create secret file for DJI key
 Copy the Secrets-Sample file to Secrets. Add you DJI key here. The creation of this file was supposed to happen automatically in the build phase..
+
+# Contributing
+If you would want to contribute to RISE drone system please take a look at [the guide for contributing](contributing.md) to find out more about the guidelines on how to proceed.
+
+# License
+RISE drone system is realeased under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
